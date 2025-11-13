@@ -1,0 +1,12 @@
+1. What is the Linux kernel, and why is it important?
+
+Why you might get asked this:
+
+Tests fundamental knowledge of the Linux architecture, specifically the core component that interacts directly with hardware. Essential for understanding the OS.
+
+kernel's role as the OS core, managing resources and hardware. Explain its importance as the bridge between applications and hardware.
+https://onedrive.live.com/view.aspx?resid=6971531D9843472B%21sbeb5073d323e4fa5a3beca3c237340ed&id=documents&wd=target%28New%20Section%203.one%7CB41D5F04-B1EB-412C-995B-0EA175932732%2FLinux%20Top%2030%20Interview%20Questions%20and%20Answers%7C92B8F648-F9ED-4C41-A283-27A8AC3CD22F%2F%29
+onenote:https://d.docs.live.net/6971531d9843472b/Documents/OneNote%20Notebooks/Devops/New%20Section%203.one#Linux%20Top%2030%20Interview%20Questions%20and%20Answers&section-id={B41D5F04-B1EB-412C-995B-0EA175932732}&page-id={92B8F648-F9ED-4C41-A283-27A8AC3CD22F}&object-id={497937AE-0DFD-49FC-A925-9A82DB47E911}&8B
+
+Example answer:
+The Linux kernel is the core of the OS, managing hardware, processes, memory, and I/O. It's Important because it provides the low-level interface between software and hardware, ensuring efficient resource utilization and system stability for all applications.
